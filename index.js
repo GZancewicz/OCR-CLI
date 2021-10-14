@@ -7,4 +7,3 @@ pythonProcess.stdout.on('data', (data) => {
 });
 
 
-#
